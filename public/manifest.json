@@ -8,9 +8,9 @@
 		"default_title": "Tabs Manager"
 	},
 	"icons": {
-		"16": "bookmark-tabs.png",
-		"48": "bookmark-tabs.png",
-		"128": "bookmark-tabs.png"
+		"16": "128.png",
+		"48": "128.png",
+		"128": "128.png"
 	},
 	"permissions": ["storage", "tabs"]
 }
