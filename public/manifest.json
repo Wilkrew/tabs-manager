@@ -1,16 +1,16 @@
 {
-	"name": "Tabs Manager",
-	"description": "Tool to save, manage and open groups of tabs",
-	"version": "1.0",
-	"manifest_version": 3,
-	"action": {
-		"default_popup": "index.html",
-		"default_title": "Tabs Manager"
-	},
-	"icons": {
-		"16": "128.png",
-		"48": "128.png",
-		"128": "128.png"
-	},
-	"permissions": ["storage", "tabs"]
+  "name": "Tabs Manager",
+  "description": "Tool to save, manage and open groups of tabs",
+  "version": "1.0.1",
+  "manifest_version": 3,
+  "action": {
+    "default_popup": "index.html",
+    "default_title": "Tabs Manager"
+  },
+  "icons": {
+    "16": "128.png",
+    "48": "128.png",
+    "128": "128.png"
+  },
+  "permissions": ["storage", "tabs"]
 }
